@@ -14,12 +14,11 @@
     [row3-start] 1fr
     [row4-start] 100px
     [row4-end];
-
 }
 
 .header {
   grid-column: main-start / main-end;
-  grid-row: row1-start / row-2 start;
+  grid-row: row1-start / row4-end;
 }
 
 .sidebar {

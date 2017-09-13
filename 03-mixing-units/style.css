@@ -1,4 +1,4 @@
-.main {
+.container {
   width: 800px;
   display: grid;
   grid-template-columns: 100px 30% 1fr;

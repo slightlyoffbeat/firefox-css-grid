@@ -1,5 +1,5 @@
 # CSS Grid Layout
-## Part 1: Introduction
+## Introduction
 
 CSS Grid Layout is completely changing the game for web design. It allows us to create layouts on the web using CSS. 
 

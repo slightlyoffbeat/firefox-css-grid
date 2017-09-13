@@ -30,7 +30,7 @@ Now that we have line names, we can use those names when placing items. Lets rec
 ```
 .header {
   grid-column: main-start / main-end;
-  grid-row: row1-start / row4-end;
+  grid-row: row1-start / row2-start;
 }
 
 .sidebar {

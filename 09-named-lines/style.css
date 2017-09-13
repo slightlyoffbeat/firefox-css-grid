@@ -18,7 +18,7 @@
 
 .header {
   grid-column: main-start / main-end;
-  grid-row: row1-start / row4-end;
+  grid-row: row1-start / row2-start;
 }
 
 .sidebar {

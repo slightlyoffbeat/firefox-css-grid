@@ -30,4 +30,4 @@ A vertical track of a grid.
 **Gutter**  
 The space between rows and columns in a grid.
 
-Got it? Lets move on to creating our first grid with CSS Grid Layout.
+Got it? Let's move on to creating our first grid with CSS Grid Layout.

@@ -17,6 +17,10 @@ Here, we have declared an 800px wide grid with three columns. The first column i
 
 [xxxx]
 
+[Hosted for Reference](https://slightlyoffbeat.github.io/firefox-css-grid/05-mixing-units/)
+
+[Codepen for Reference](https://codepen.io/drummerdb/pen/PKgXpW)
+
 **DevTools Homework**  
 Inspect the grid above, and change the `grid-template-columns` property to the following: 
 

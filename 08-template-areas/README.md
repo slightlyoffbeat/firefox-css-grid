@@ -1,7 +1,7 @@
 # CSS Grid Layout
 ## Part 8: Template Areas
 
-In our previous example, we learned how to create a basic layout by positioning items with grid lines. Another method for positioning items is to use named grid areas with the `grid-template-areas` and `grid-area` properties. The best way to explain this is with example. Lets recreate the grid from our previous example with the `grid-template-areas` property:
+In our previous example, we learned how to create a basic layout by positioning items with grid lines. Another method for positioning items is to use named grid areas with the `grid-template-areas` and `grid-area` properties. The best way to explain this is with example. Let's recreate the grid from our previous example with the `grid-template-areas` property:
 
 ```
 .container {
@@ -63,6 +63,10 @@ CSS:
 And here is the result:
 
 [XXXX]
+
+[Link for Reference](https://slightlyoffbeat.github.io/firefox-css-grid/08-template-areas/)
+
+[Codepen for Reference](https://codepen.io/drummerdb/pen/BdEbKX)
 
 This example only touches on what is possible with grid template areas. [Check out MDN](https://developer.mozilla.org/docs/Web/CSS/CSS_Grid_Layout/Grid_Template_Areas) for more detailed documentation.
 

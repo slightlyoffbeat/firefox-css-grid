@@ -13,12 +13,12 @@ Jen Simmons is a Designer Advocate at Mozilla. She is also a developer, writer, 
 
 
 **Rachel Andrew**  
-Rachel Andrew is a developer, speaker and author who has provided several resources for learning more about CSS Grid Layout
+Rachel Andrew is a developer, speaker and author who is also a part of the CSS Working Group and has provided several resources for learning about CSS Grid Layout.
 
 * [gridbyexample.com](https://gridbyexample.com/)
 * [Twitter](https://twitter.com/rachelandrew)
 
 **MDN**  
-MDN has comprehensive tutorials, and documentation for every feature of CSS Grid Layout
+MDN has comprehensive tutorials and documentation for every feature of CSS Grid Layout
 
 * [MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout)

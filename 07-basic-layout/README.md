@@ -2,7 +2,7 @@
 ## Part 7: Creating a basic layout
 
 
-Now that we have learned how to create a grid, and position items on the grid, lets create a basic layout. We won't be introducing any new concepts here. We'll simply be using the `grid-row` and `grid-column` shorthand properties manually place items such as a header, footer etc. 
+Now that we have learned how to create a grid and position items on that grid, let's create a basic layout. We won't be introducing any new concepts here. We'll simply be using the `grid-row` and `grid-column` shorthand properties to manually place items such as a header, footer etc. 
 
 Here is the HTML:
 
@@ -63,6 +63,10 @@ Here is the CSS:
 And here is the result:
 
 [XXXXX]
+
+[Link for Reference](https://slightlyoffbeat.github.io/firefox-css-grid/07-basic-layout/)
+
+[Codepen for Reference](https://codepen.io/drummerdb/pen/ayxMbL)
 
 **Firefox DevTools Homework** 
 This is the perfect time to test out the 'display line numbers' setting on the Firefox CSS Grid Layout Panel. Inspect the result above and select the layout panel. Here you can activate the overlay grid and check the box to 'display line numbers'. Handy right? This tool makes it very easy to visualize your grid when positioning items.

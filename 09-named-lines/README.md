@@ -25,7 +25,7 @@ To name a grid line, you simply provide the name in square brackets:
 }
 ```
 
-Now that we have line names, we can use those names when placing items. Lets recreate our basic layout using named lines, instead of line numbers:
+Now that we have line names, we can use those names when placing items. Let's recreate our basic layout using named lines, instead of line numbers:
 
 ```
 .header {
@@ -62,6 +62,12 @@ Now that we have line names, we can use those names when placing items. Lets rec
 And here is the result:
 
 [ XXXXX ]
+
+[Link for Reference](https://slightlyoffbeat.github.io/firefox-css-grid/09-named-lines/)
+
+[Codepen for Reference](https://codepen.io/drummerdb/pen/dzLrNg)
+
+
 
 **Firefox DevTools Homework**  
 Did you know you can customize the color of the grid overlay in Firefox DevTools? The above example is dark, and the default purple may not be the best color to use. When selecting an overlay grid to display, you will see a circle next to the grid name that indicates the color of the overlay. Click on that circle, and you can customize the color to whatever you'd like. Try a different color, such as white.

@@ -4,21 +4,20 @@
 
 ### Understanding Grid Lines
 
-Now that we are comfortable creating a grid and defining the row and column sizes, we can move on to placing items on this grid. There are several ways to place items, but we will start with a basic example. Lets consider a simple 3x2 grid:
+Now that we are comfortable creating a grid and defining the row and column sizes, we can move on to placing items on this grid. There are several ways to place items, but we will start with a basic example. Consider a simple 3x2 grid:
 
-[ 1 ]   [ 2 ]   [ 3 ]  
+[ image needed ]
 
-[ 4 ]   [ 5 ]   [ 6 ]  
 
 Each item within this grid will be placed automatically in the default order. 
 
-If we wish to have greater control, we can position items on the grid using grid line numbers. Grid lines are numbered left to right and top to bottom (if you are working in a right-to-left language, then grid lines are numbered right to left). So the above example would be numbered like so:
+If we wish to have greater control, we can position items on the grid using grid line numbers. Grid lines are numbered left to right and top to bottom (if you are working in a right-to-left language, then grid lines are numbered right to left). The above example would be numbered like so:
 
-[ image ]
+[ image needed ]
 
 ### Position an item
 
-Lets say we want to position our first grid item (with a class of `item1`) to be in the second row and in the second column. We would want it to start at the second row line, and span to the third row line. We also want it to start at the second column line and span to the third column line. We could write it like so:
+Say we want to position our first grid item (with a class of `item1`) to be in the second row and occupy the second column. This item will need to start at the second row line, and span to the third row line. It will also need to start at the second column line and span to the third column line. We could write our CSS like so:
 
 ```
 .item1 {
@@ -44,6 +43,10 @@ Here is the result:
 
 [XXXXX]
 
+[Link for Reference](https://slightlyoffbeat.github.io/firefox-css-grid/06-position-items/)
+
+[Codepen for Reference](https://codepen.io/drummerdb/pen/GvLYmd)
+
 **Firefox DevTools Homework**  
 Try changing the `grid-row` property of `item1` to the following:
 
@@ -56,5 +59,5 @@ Try changing the `grid-row` property of `item1` to the following:
 
 See what happened? The item spanned multiple columns from grid line 1 to 3. It also was placed between grid row lines 3 and 4 which results in a new row being created. This new row is an implicit row, and its height is set by the `grid-auto-rows` property on the parent grid. You can learn more about default rules for auto-placement on [MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/Auto-placement_in_CSS_Grid_Layout#Default_rules_for_auto-placement).
 
-Now lets put this new knowledge to work by creating a basic layout.
+Now let's put this new knowledge to work by creating a basic layout.
 
